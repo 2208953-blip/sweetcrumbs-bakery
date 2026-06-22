@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SweetCrumbs Bakery | DBIT Project</title>
+</head>
+<body bgcolor="#FAF3E0" text="#3E2723" link="#8D6E63" vlink="#5D4037">
+
+    <!-- Header Section -->
+    <table width="100%" border="0" cellpadding="30" cellspacing="0" bgcolor="#5D4037">
+        <tr>
+            <td align="center">
+                <font face="Verdana" size="7" color="#FFFFFF"><b>SWEETCRUMBS BAKERY</b></font><br>
+                <font face="Verdana" size="3" color="#D7CCC8">Freshly Baked Excellence | KCA University DBIT Assignment</font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- 9. Gallery Section -->
+    <table width="850" align="center" border="0" cellpadding="15" cellspacing="0">
+        <tr>
+            <td align="center" colspan="3">
+                <font face="Arial" size="6"><b>Our Signature Gallery</b></font>
+                <hr width="150" color="#5D4037">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#FFFFFF" width="283" height="150">
+                <font size="7">🥐</font><br>
+                <font face="Arial" size="4">Croissant</font>
+            </td>
+            <td align="center" bgcolor="#FFFFFF" width="283">
+                <font size="7">🍞</font><br>
+                <font face="Arial" size="4">Bread</font>
+            </td>
+            <td align="center" bgcolor="#FFFFFF" width="283">
+                <font size="7">🧁</font><br>
+                <font face="Arial" size="4">Cupcake</font>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" bgcolor="#FFFFFF" height="150">
+                <font size="7">🍩</font><br>
+                <font face="Arial" size="4">Donut</font>
+            </td>
+            <td align="center" bgcolor="#FFFFFF">
+                <font size="7">🍪</font><br>
+                <font face="Arial" size="4">Cookie</font>
+            </td>
+            <td align="center" bgcolor="#FFFFFF">
+                <font size="7">🎂</font><br>
+                <font face="Arial" size="4">Cake</font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- 10. Testimonials Section -->
+    <table width="850" align="center" border="1" cellpadding="20" cellspacing="0" bordercolor="#D7CCC8" bgcolor="#FFFFFF">
+        <tr bgcolor="#EFEBE9">
+            <td align="center" colspan="3">
+                <font face="Arial" size="5"><b>Customer Testimonials</b></font>
+            </td>
+        </tr>
+        <tr>
+            <td width="33%" valign="top">
+                <font face="Arial">
+                    <b>Mercy Wanjiku</b><br>
+                    <font color="#FFA000">★★★★★</font><br>
+                    <i>"The best sourdough bread I've ever tasted in Nairobi. Still warm when delivered!"</i>
+                </font>
+            </td>
+            <td width="33%" valign="top">
+                <font face="Arial">
+                    <b>David Otieno</b><br>
+                    <font color="#FFA000">★★★★★</font><br>
+                    <i>"I ordered cupcakes for my daughter's graduation and everyone loved them. Five stars!"</i>
+                </font>
+            </td>
+            <td width="33%" valign="top">
+                <font face="Arial">
+                    <b>Brian Mutua</b><br>
+                    <font color="#FFA000">★★★★★</font><br>
+                    <i>"Their chocolate chip cookies are addictive. Perfect balance of crunch and chew."</i>
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- 11. Contact Section -->
+    <table width="650" align="center" border="0" cellpadding="25" cellspacing="0" bgcolor="#EFEBE9">
+        <tr>
+            <td>
+                <center><font face="Arial" size="6">Contact Us</font></center><br>
+                <form action="#" method="POST">
+                    <table border="0" cellpadding="8" cellspacing="0" align="center">
+                        <tr>
+                            <td align="right"><font face="Arial">Full Name:</font></td>
+                            <td><input type="text" name="name" size="35" required></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><font face="Arial">Email Address:</font></td>
+                            <td><input type="email" name="email" size="35" required></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><font face="Arial">Phone Number:</font></td>
+                            <td><input type="tel" name="phone" size="35"></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><font face="Arial">Inquiry Type:</font></td>
+                            <td>
+                                <select name="inquiry" style="width: 100%;">
+                                    <option value="general">General Inquiry</option>
+                                    <option value="catering">Catering Request</option>
+                                    <option value="order">Order Tracking</option>
+                                    <option value="feedback">Feedback</option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right" valign="top"><font face="Arial">Message:</font></td>
+                            <td><textarea name="message" rows="6" cols="33" required></textarea></td>
+                        </tr>
+                        <tr>
+                            <td></td>
+                            <td>
+                                <input type="submit" value="Submit Inquiry">
+                                <input type="reset" value="Clear Form">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- 12. Location Section -->
+    <table width="650" align="center" border="1" cellpadding="25" cellspacing="0" bgcolor="#FFFFFF" bordercolor="#5D4037">
+        <tr>
+            <td>
+                <font face="Arial" size="5"><b>Our Location</b></font><br><br>
+                <font face="Arial">
+                    <b>Physical Address:</b><br>
+                    Thika Road, KCA University Precinct<br>
+                    Nairobi, Kenya<br><br>
+                    <b>Directions:</b><br>
+                    Located at the main junction heading towards the student center. Look for the brown awning.<br><br>
+                    <a href="https://maps.google.com" target="_blank">Open in Google Maps</a>
+                </font>
+            </td>
+        </tr>
+    </table>
+
+    <br><br>
+
+    <!-- 13. Footer Section -->
+    <table width="100%" border="0" cellpadding="40" cellspacing="0" bgcolor="#3E2723">
+        <tr>
+            <td valign="top" width="25%">
+                <font face="Arial" color="#FFFFFF" size="4"><b>Quick Links</b></font><br><br>
+                <font face="Arial" color="#D7CCC8" size="2">
+                    Home<br>Our Menu<br>Bakery Story<br>Contact
+                </font>
+            </td>
+            <td valign="top" width="25%">
+                <font face="Arial" color="#FFFFFF" size="4"><b>Popular Products</b></font><br><br>
+                <font face="Arial" color="#D7CCC8" size="2">
+                    Custom Cakes<br>French Croissants<br>Artisan Bread<br>Party Donuts
+                </font>
+            </td>
+            <td valign="top" width="25%">
+                <font face="Arial" color="#FFFFFF" size="4"><b>Business Hours</b></font><br><br>
+                <font face="Arial" color="#D7CCC8" size="2">
+                    Mon - Fri: 8:00 AM - 6:00 PM<br>
+                    Sat: 9:00 AM - 5:00 PM<br>
+                    Sun: Closed
+                </font>
+            </td>
+            <td valign="top" width="25%">
+                <font face="Arial" color="#FFFFFF" size="4"><b>Policies</b></font><br><br>
+                <font face="Arial" color="#D7CCC8" size="2">
+                    <a href="#"><font color="#D7CCC8">Privacy Policy</font></a><br>
+                    <a href="#"><font color="#D7CCC8">Terms & Conditions</font></a><br>
+                    Refund Policy
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="4" align="center">
+                <hr color="#5D4037">
+                <font face="Arial" color="#D7CCC8" size="2">
+                    &copy; 2023 SweetCrumbs Bakery. Designed by Ricardo - DBIT KCA University.
+                </font>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
